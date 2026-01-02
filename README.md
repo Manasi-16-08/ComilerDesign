@@ -1,5 +1,3 @@
-# ComilerDesign
-follow the instruction slides for installation and setup
 # Compiler Design
 
 The **Compiler Design** repository contains coursework, assignments, practical programs, and resources related to the study and implementation of compiler construction concepts. Compiler design is a fundamental area of computer science that focuses on building software that translates high‑level programming languages into executable machine code or intermediate representations.
